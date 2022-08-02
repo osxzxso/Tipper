@@ -10,7 +10,7 @@ In order to receive diamonds on your posts, from both @osxzxso and @Tipper:
 - you must be actively following @osxzxso and @Tipper.
 
 Accounts that appear to be:
-- reposting (constantly) may be blocked.
+- posting/reposting (constantly) may be blocked.
 - overtly farming may be blocked.
 - bots may be blocked.
 - spamming may be blocked.
