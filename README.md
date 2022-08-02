@@ -21,6 +21,7 @@ Keep in mind:
 - Not all diamond transactions are successful, there will be posts that are missed.
 - Code improvements will be implemented over time and may cause downtime, be patient.
 - When DeSo is updated, things may break. Be patient while corrections are made.
+- When Replit is experiencing site status issues, it may cause downtime, be patient.
 
 And last but not least:
 - Enjoy the 💎 diamond 💎 shower!
