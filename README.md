@@ -6,7 +6,7 @@
 
 FINE PRINT (may change over time)
 
-<b><em>Tipper is intended to reward "real" user accounts of the DeSo blockchain.</em></b>
+<b><em>Tipper is intended to reward "real" user accounts on the DeSo blockchain.</em></b>
 
 In order to receive diamonds on your posts, from both @osxzxso and @Tipper:
 - you must be actively following @osxzxso and @Tipper.
